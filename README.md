@@ -1,4 +1,4 @@
-# Ivanti Secure Connect Logs Parsers
+# Ivanti Secure Connect Logs Parser
 
 This repository provides a Python script designed to convert Ivanti Secure Connect .vc0 log files into CSV format for digital forensics and incident response. In particular, the parser:
 

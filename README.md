@@ -33,7 +33,7 @@ options:
 ```
 ## Example
 
-```python
+```PowerShell
 python .\ics_logs_parser.py --input "F:\Case20250109001\root_runtime.img\[root]\runtime\logs" --output .\logs\ --map .\logmessages_map.csv
 ```
 

@@ -19,7 +19,7 @@ During multiple incident response engagements involving Ivanti Secure Connect, c
 
 # Usage
 
-```python
+```PowerShell
 PS F:\Case20250109001> python .\ics_logs_parser.py -h
 usage: ics_logs_parser.py [-h] --input INPUT --output OUTPUT --mapfile MAPFILE
 
